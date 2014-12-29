@@ -1,10 +1,10 @@
-@font-face {
+/*/*/*/*/*/*/*/*/*@font-face {
 	font-family: 'Pe-icon-7-stroke';
-	src:url('/fonts/Pe-icon-7-stroke.eot?-2irksn');
-	src:url('/fonts/Pe-icon-7-stroke.eot?#iefix-2irksn') format('embedded-opentype'),
-		url('/fonts/Pe-icon-7-stroke.woff?-2irksn') format('woff'),
-		url('/fonts/Pe-icon-7-stroke.ttf?-2irksn') format('truetype'),
-		url('/fonts/Pe-icon-7-stroke.svg?-2irksn#Pe-icon-7-stroke') format('svg');
+	src:url('fonts/Pe-icon-7-stroke.eot?-2irksn');
+	src:url('fonts/Pe-icon-7-stroke.eot?#iefix-2irksn') format('embedded-opentype'),
+		url('fonts/Pe-icon-7-stroke.woff?-2irksn') format('woff'),
+		url('fonts/Pe-icon-7-stroke.ttf?-2irksn') format('truetype'),
+		url('fonts/Pe-icon-7-stroke.svg?-2irksn#Pe-icon-7-stroke') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,7 +24,7 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.pe-7s-cloud-upload:before {
+/*.pe-7s-cloud-upload:before {
 	content: "\e68a";
 }
 .pe-7s-cash:before {
@@ -534,3 +534,4 @@
 .pe-7s-airplay:before {
 	content: "\e67f";
 }
+*/*/*/*/*/*/*/*/*/*/
