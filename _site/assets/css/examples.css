@@ -234,17 +234,17 @@
 }
 .home .carousel-indicators li {
   margin: 1px 10px;
-  border-color: #00bbff;
+  border-color: #ffce00;
 }
 .home .carousel-indicators .active {
-  background-color: #00bbff;
+  background-color: #ffce00;
 }
 .home .carousel-inner > .item > img,
 .home .carousel-inner > .item > a > img {
   display: block;
   margin: 0 auto;
   height: auto;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .home .carousel.fade {
   opacity: 1;
